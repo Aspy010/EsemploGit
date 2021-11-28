@@ -1,5 +1,0 @@
-def suma (x,y)
-	return x+y
-
-Return suma(r,z)
-	return r+z
